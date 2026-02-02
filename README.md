@@ -1,16 +1,21 @@
-## Hi there 👋
+# Samuel Boadi Agyekum
 
-<!--
-**agyekumboadi/agyekumboadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **data-driven and security-aware analytics systems** focused on **machine learning, explainability, and reproducible delivery**.  
+My work spans **sports performance analytics (football + cross-sport testing)** and **information security / governance** in regulated environments.
 
-Here are some ideas to get you started:
+## Current focus
+- Predictive modelling (Logistic Regression, Random Forest) with **PCA** and robust evaluation  
+- Model explainability using **SHAP** (global + individual explanations)
+- Translating analytics into **decision-ready outputs** (clear visuals, documented assumptions, reproducible runs)
+- Security + governance in data projects (GDPR-aware processing, risk thinking, auditability)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+1) **MSc Dissertation – Player Performance Analytics (Multi-sport)**  
+2) **Information Security Strategy & IT Security Management**  
+3) **IS Governance Case Study (Regulated UK environment)**  
+
+## Tech Nation evidence index
+See: **tech-nation-evidence** — curated links to key outputs, figures, and supporting explanations.
+
+## Tooling
+Python (pandas, scikit-learn, SHAP), Jupyter, Tableau, Jamovi, Git/GitHub
