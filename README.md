@@ -15,7 +15,7 @@ My work spans **sports performance analytics (football + cross-sport testing)** 
 3) **IS Governance Case Study (Regulated UK environment)**  
 
 ## Tech Nation evidence index
-See: **[tech-nation-evidence]** - curated links to key outputs, figures, and supporting explanations.
+See: **[tech-nation-evidence](agyekumboadi/tech-nation-evidence)** - curated links to key outputs, figures, and supporting explanations.
 
 ## Tooling
 Python (pandas, scikit-learn, SHAP), Jupyter, Tableau, Jamovi, Git/GitHub
