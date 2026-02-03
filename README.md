@@ -10,7 +10,7 @@ My work spans **sports performance analytics (football + cross-sport testing)** 
 - Security + governance in data projects (GDPR-aware processing, risk thinking, auditability)
 
 ## Featured projects
-1) **MSc Dissertation – Player Performance Analytics (Multi-sport)**  
+1) **Player Performance Analysis in Sports Using Data Analytics**  
 2) **Information Security Strategy & IT Security Management**  
 3) **IS Governance Case Study (Regulated UK environment)**  
 
