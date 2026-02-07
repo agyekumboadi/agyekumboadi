@@ -14,7 +14,7 @@ My work spans **sports performance analytics (football + cross-sport testing)** 
 2) **Information Security Strategy & IT Security Management**  
 3) **IS Governance Case Study (Regulated UK environment)**  
 
-## Tech Nation evidence index
+## Evidence index
 See: **[tech-nation-evidence](https://github.com/agyekumboadi/tech-nation-evidence)** - curated links to key outputs, figures, and supporting explanations.
 
 ## Tooling
