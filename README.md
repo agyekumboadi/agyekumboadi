@@ -3,7 +3,7 @@
 I build **data-driven, security-aware analytics systems** with a focus on **machine learning, explainability, and reproducible delivery**.  
 My work spans **sports performance analytics** (football with **cross-sport testing**) and **information security / governance** in regulated environments.
 
-I’m especially interested in turning messy, real-world data into decision-ready insights—while keeping implementations documented, versioned, and maintainable.
+I’m especially interested in turning messy, real-world data into decision-ready insights, while keeping implementations documented, versioned and maintainable.
 
 ---
 
@@ -34,7 +34,7 @@ I’m especially interested in turning messy, real-world data into decision-read
 ---
 
 ## Evidence index
-See: **[evidence-index](https://github.com/agyekumboadi/evidence-index)** — curated links to key outputs, figures, and supporting explanations.
+See: **[evidence-index](https://github.com/agyekumboadi/evidence-index)** - curated links to key outputs, figures, and supporting explanations.
 
 ---
 
